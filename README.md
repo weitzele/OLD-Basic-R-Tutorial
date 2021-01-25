@@ -1,2 +1,5 @@
 # Basic-R-Tutorial
-A very basic tutorial on how to use R intended for archaeologists attending the 3rd Annual Workshop for Archaeology Graduate Students in the Northeast (WAGS: NE) on April 27, 2019 at UConn
+Course materials for ANTH 3720/5305 - Data Analysis in R for Archaeologists. This is a one-credit course on basic, applied data science and statistics for archaeologists.
+
+Course lecture and tutorial videos can be found here:
+https://youtube.com/playlist?list=PLxvd3L7BN6z2S7WF2_Wv7eZA9LhierTQi
